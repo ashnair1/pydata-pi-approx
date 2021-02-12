@@ -10,6 +10,8 @@ conda create -n jsim -c conda-forge bokeh sympy flask redis redis-py celery node
 pip install httpie flask-cors
 ```
 
+Refer [here](https://stackoverflow.com/questions/55483235/redis-installation-using-conda-not-working-modulenotfounderror-no-module-named) to know why redis-py is required.
+
 ### Note to myself:
 - run gulp:
 ```bash
