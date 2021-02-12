@@ -2,7 +2,7 @@
 #### Web-based Analysis &amp; Simulation Platforms with React/Redux, Flask, Celery, and Numpy
  
 This project is based on a tutorial from a talk given by James Powell during a Pydata event.
-[Here is the video](https://youtu.be/eEXKIp8h0T0)
+[Here is the video](https://youtu.be/eEXKIp8h0T0) and [here](https://www.dropbox.com/sh/yus0uz132xeb7cs/AACw9MuHD6VZ0wMPtPrnvK1Ya?dl=0) is the original code location
 
 ### Install using conda
 ```
@@ -11,6 +11,8 @@ pip install httpie flask-cors
 ```
 
 Refer [here](https://stackoverflow.com/questions/55483235/redis-installation-using-conda-not-working-modulenotfounderror-no-module-named) to know why redis-py is required.
+
+
 
 ### Note to myself:
 - run gulp:
